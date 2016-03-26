@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-basic-express",
+  "version": "1.0.0",
+  "description": "NodeJS tabanlı bir alıştırma olup ExpressJS hakkında temel şeyleri göstermek amaçlanmıştır.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samet Aylak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
