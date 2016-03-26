@@ -12,7 +12,7 @@ app.get('/', function (req, res) {
 
 app.get('/hakkimizda', function(req, res) {
   res.sendFile(__dirname + '/about.html');
-})
+});
 
 app.listen(port, function () {
   console.log('Sunucu %s portunu dinliyor!', port);
